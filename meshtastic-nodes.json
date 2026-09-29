@@ -1,0 +1,10 @@
+{
+  "updated": "2026-09-29T16:30:00-04:00",
+  "homeNode": {
+    "name": "KD9WFK",
+    "shortName": "WFK",
+    "device": "LILYGO LILY60",
+    "role": "CLIENT"
+  },
+  "nodes": []
+}
