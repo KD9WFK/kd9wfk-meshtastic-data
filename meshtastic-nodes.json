@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:07:54.015469+00:00",
+  "updated": "2026-10-04T22:12:24.704455+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -76,31 +76,15 @@
       "shortName": "7f64",
       "nodeId": "!49b57f64",
       "hardware": "HELTEC_V4",
-      "lastHeard": "2026-10-04T22:07:28+00:00",
+      "lastHeard": "2026-10-04T22:10:01+00:00",
       "path": "Direct",
       "hops": 0,
       "rssi": null,
-      "snr": -1.0,
+      "snr": -0.5,
       "distanceMiles": 1.74,
       "latitude": 39.97696,
       "longitude": -86.0618752,
-      "altitudeMeters": 243,
-      "batteryLevel": null
-    },
-    {
-      "name": "Meshtastic f7e0",
-      "shortName": "f7e0",
-      "nodeId": "!0407f7e0",
-      "hardware": "UNSET",
-      "lastHeard": "2026-10-04T20:49:05+00:00",
-      "path": "Relayed",
-      "hops": 3,
-      "rssi": null,
-      "snr": -10.5,
-      "distanceMiles": 17.22,
-      "latitude": 39.7672448,
-      "longitude": -86.1667328,
-      "altitudeMeters": 218,
+      "altitudeMeters": 73,
       "batteryLevel": null
     },
     {
