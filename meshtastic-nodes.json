@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T18:20:02.681544+00:00",
+  "updated": "2026-10-05T18:30:09.137379+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -12,15 +12,15 @@
       "shortName": "7f64",
       "nodeId": "!49b57f64",
       "hardware": "HELTEC_V4",
-      "lastHeard": "2026-10-05T18:18:30+00:00",
+      "lastHeard": "2026-10-05T18:29:00+00:00",
       "path": "Direct",
       "hops": 0,
       "rssi": null,
-      "snr": -14.75,
+      "snr": -14.5,
       "distanceMiles": 1.74,
       "latitude": 39.97696,
       "longitude": -86.0618752,
-      "altitudeMeters": 57,
+      "altitudeMeters": 34,
       "batteryLevel": null
     }
   ]
