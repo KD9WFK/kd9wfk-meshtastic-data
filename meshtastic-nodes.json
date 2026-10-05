@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T17:34:30.115769+00:00",
+  "updated": "2026-10-05T17:38:37.291918+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -21,22 +21,6 @@
       "latitude": 39.97696,
       "longitude": -86.0618752,
       "altitudeMeters": 240,
-      "batteryLevel": null
-    },
-    {
-      "name": "Meshtastic f734",
-      "shortName": "f734",
-      "nodeId": "!0404f734",
-      "hardware": "HELTEC_V3",
-      "lastHeard": "2026-10-05T12:24:34+00:00",
-      "path": "Relayed",
-      "hops": 1,
-      "rssi": null,
-      "snr": -18.25,
-      "distanceMiles": null,
-      "latitude": null,
-      "longitude": null,
-      "altitudeMeters": null,
       "batteryLevel": null
     }
   ]
