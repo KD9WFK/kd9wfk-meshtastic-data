@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:25:01.474431+00:00",
+  "updated": "2026-10-05T14:27:27.909460+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -49,22 +49,6 @@
       "hops": 0,
       "rssi": null,
       "snr": -7.75,
-      "distanceMiles": null,
-      "latitude": null,
-      "longitude": null,
-      "altitudeMeters": null,
-      "batteryLevel": null
-    },
-    {
-      "name": "Meshtastic 547e",
-      "shortName": "547e",
-      "nodeId": "!24ef547e",
-      "hardware": "RAK4631",
-      "lastHeard": null,
-      "path": "Unknown",
-      "hops": null,
-      "rssi": null,
-      "snr": null,
       "distanceMiles": null,
       "latitude": null,
       "longitude": null,
