@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T15:07:57.680046+00:00",
+  "updated": "2026-10-05T15:13:02.487111+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -17,7 +17,7 @@
       "hops": 0,
       "rssi": null,
       "snr": -6.25,
-      "distanceMiles": 17.81,
+      "distanceMiles": 17.79,
       "latitude": 39.7654499,
       "longitude": -86.1883999,
       "altitudeMeters": 228,
@@ -49,7 +49,7 @@
       "hops": 0,
       "rssi": null,
       "snr": -14.5,
-      "distanceMiles": 1.75,
+      "distanceMiles": 1.74,
       "latitude": 39.97696,
       "longitude": -86.0618752,
       "altitudeMeters": 229,
@@ -81,7 +81,7 @@
       "hops": 1,
       "rssi": null,
       "snr": -8.75,
-      "distanceMiles": 16.68,
+      "distanceMiles": 16.66,
       "latitude": 39.7737984,
       "longitude": -86.1601792,
       "altitudeMeters": 293,
