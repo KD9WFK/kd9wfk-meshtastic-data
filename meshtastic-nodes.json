@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:32:32.107102+00:00",
+  "updated": "2026-10-05T14:37:36.420893+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -22,22 +22,6 @@
       "longitude": -86.1883999,
       "altitudeMeters": 228,
       "batteryLevel": 96
-    },
-    {
-      "name": "Meshtastic 3506",
-      "shortName": "3506",
-      "nodeId": "!ebfe3506",
-      "hardware": "WISMESH_TAG",
-      "lastHeard": null,
-      "path": "Unknown",
-      "hops": null,
-      "rssi": null,
-      "snr": null,
-      "distanceMiles": null,
-      "latitude": null,
-      "longitude": null,
-      "altitudeMeters": null,
-      "batteryLevel": null
     },
     {
       "name": "Meshtastic 3968",
