@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T23:33:37.318495+00:00",
+  "updated": "2026-10-05T23:43:44.306695+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -17,7 +17,7 @@
       "hops": 0,
       "rssi": null,
       "snr": -11.75,
-      "distanceMiles": 1.74,
+      "distanceMiles": 1.73,
       "latitude": 39.97696,
       "longitude": -86.0618752,
       "altitudeMeters": 218,
