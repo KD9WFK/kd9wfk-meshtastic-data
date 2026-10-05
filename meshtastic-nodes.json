@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:33:51.523547+00:00",
+  "updated": "2026-10-05T16:38:55.935627+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -7,38 +7,6 @@
     "role": "CLIENT"
   },
   "nodes": [
-    {
-      "name": "IndyGo",
-      "shortName": "IPTC",
-      "nodeId": "!e1b2f93a",
-      "hardware": "RAK4631",
-      "lastHeard": "2026-10-04T20:59:39+00:00",
-      "path": "Direct",
-      "hops": 0,
-      "rssi": null,
-      "snr": -6.25,
-      "distanceMiles": 17.8,
-      "latitude": 39.7654499,
-      "longitude": -86.1883999,
-      "altitudeMeters": 228,
-      "batteryLevel": 96
-    },
-    {
-      "name": "Meshtastic 3968",
-      "shortName": "3968",
-      "nodeId": "!55c63968",
-      "hardware": "TBEAM",
-      "lastHeard": "2026-10-04T19:58:32+00:00",
-      "path": "Direct",
-      "hops": 0,
-      "rssi": null,
-      "snr": -7.75,
-      "distanceMiles": null,
-      "latitude": null,
-      "longitude": null,
-      "altitudeMeters": null,
-      "batteryLevel": null
-    },
     {
       "name": "Meshtastic 7f64",
       "shortName": "7f64",
