@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:15:14.774773+00:00",
+  "updated": "2026-10-06T05:20:18.973615+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -12,7 +12,7 @@
       "shortName": "7f64",
       "nodeId": "!49b57f64",
       "hardware": "HELTEC_V4",
-      "lastHeard": "2026-10-05T23:49:01+00:00",
+      "lastHeard": "2026-10-05T23:55:21+00:00",
       "path": "Direct",
       "hops": 0,
       "rssi": null,
