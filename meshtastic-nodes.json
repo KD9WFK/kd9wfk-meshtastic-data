@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:30:26.011378+00:00",
+  "updated": "2026-10-06T05:40:32.431238+00:00",
   "homeNode": {
     "name": "KD9WFK",
     "shortName": "WFK",
@@ -7,6 +7,22 @@
     "role": "CLIENT"
   },
   "nodes": [
+    {
+      "name": null,
+      "shortName": null,
+      "nodeId": "!a03516ec",
+      "hardware": null,
+      "lastHeard": null,
+      "path": "Unknown",
+      "hops": null,
+      "rssi": null,
+      "snr": null,
+      "distanceMiles": null,
+      "latitude": null,
+      "longitude": null,
+      "altitudeMeters": null,
+      "batteryLevel": null
+    },
     {
       "name": "Meshtastic 7f64",
       "shortName": "7f64",
